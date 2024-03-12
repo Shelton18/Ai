@@ -3,7 +3,7 @@
 # Program: Count 1-10
 # Resource:https://www.youtube.com/watch?v=jRAAaDll34Q
 
-print("hi")
+ 
 
 # Loop from 1 to 10 and print each number
 for i in range(5, 21):
